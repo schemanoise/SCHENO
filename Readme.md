@@ -1,6 +1,6 @@
 # `SCHENO`, the SCHEma-NOise scoring function
 
-###...Also includes a pattern-finding genetic algorithm guided by SCHENO as its fitness function.
+### ...Also includes a pattern-finding genetic algorithm guided by SCHENO as its fitness function.
 
 ## About
 
@@ -14,7 +14,7 @@ Given a graph and a "noise set" (a list of node-pairs), `SCHENO` measures how we
 - How random or noisy is the noise?
 - How different is the schema from the original graph?
 
-Much more information is available in the research paper [here (TODO: Add Link)](https://github.com/schemanoise/SCHENO).
+Much more information is available in the dissertation [here](https://www.proquest.com/docview/2916028057).
 
 ### Isomorphism and Automorphism Calculations
 
@@ -32,7 +32,7 @@ The binaries will be located in the `executables` folder.
 
 You can find a PDF manual describing the use of this repository's code inside the `documentation` folder.
 
-For a full theoretical description of SCHENO, see the research paper located [here (TODO: Add Link)](https://github.com/schemanoise/SCHENO).
+For a full theoretical description of `SCHENO`, see the dissertation located [here](https://www.proquest.com/docview/2916028057).
 
 ### `SCHENO_score`
 
